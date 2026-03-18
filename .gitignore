@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f6621cdd31b2e9aaefb80c67807f55c07a6e7cc7
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -22,6 +25,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 =======
 HELP.md
 target/
@@ -57,3 +61,5 @@ build/
 ### VS Code ###
 .vscode/
 >>>>>>> 5be02f52190809f7c76092f5bf381055f2c3a924
+=======
+>>>>>>> f6621cdd31b2e9aaefb80c67807f55c07a6e7cc7

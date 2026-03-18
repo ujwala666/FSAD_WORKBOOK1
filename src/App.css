@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App {
   text-align: center;
 }
@@ -36,3 +37,19 @@
     transform: rotate(360deg);
   }
 }
+=======
+body {
+  font-family: Arial;
+  background-color: #f5f5f5;
+}
+
+button {
+  margin: 10px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+div {
+  padding: 10px;
+}
+>>>>>>> f6621cdd31b2e9aaefb80c67807f55c07a6e7cc7

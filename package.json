@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "student-manager-app",
+=======
+  "name": "skill11-react-api",
+>>>>>>> f6621cdd31b2e9aaefb80c67807f55c07a6e7cc7
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +11,10 @@
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
+=======
+    "axios": "^1.13.6",
+>>>>>>> f6621cdd31b2e9aaefb80c67807f55c07a6e7cc7
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-scripts": "5.0.1",
